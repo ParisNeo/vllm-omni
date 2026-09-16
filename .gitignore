@@ -182,6 +182,10 @@ AGENTS.md
 # cursor
 .cursor/
 
+# lollms
+.lollms/
+.lollms_code/
+
 # scripts
 /scripts/
 
